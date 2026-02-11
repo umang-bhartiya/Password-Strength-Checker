@@ -24,9 +24,13 @@ This project demonstrates secure design principles, modular architecture, and us
 
 PasswordStrengthChecker/
 ├── gui_app.py # GUI entry point
+
 ├── password_utils.py # Core password logic
+
 ├── requirements.txt # Dependencies
+
 ├── README.md
+
 └── .gitignore
 
 
@@ -38,18 +42,3 @@ PasswordStrengthChecker/
 ```bash
 git clone https://github.com/<your-username>/PasswordStrengthChecker.git
 cd PasswordStrengthChecker
-
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-
-### 3. Run the Application
-```bash
-python gui_app.py
-
-
-## Future Enhancements
-├── SQLite encrypted vault
-├── First-run master password setup
-├── Executable packaging (.exe)
-└── Cross-platform UI polish
