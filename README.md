@@ -39,3 +39,24 @@ PasswordStrengthChecker/
 ```bash
 git clone https://github.com/<your-username>/PasswordStrengthChecker.git
 cd PasswordStrengthChecker
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run The Application
+
+```bash
+python gui_app.py
+```
+
+### 🔮 Future Enhancements
+```bash  
+├── SQLite encrypted password vault  
+├── First-run master password setup  
+├── Executable packaging (.exe)  
+└── Cross-platform UI polish
+```
