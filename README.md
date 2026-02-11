@@ -29,3 +29,13 @@ PasswordStrengthChecker/
 ├── requirements.txt # Project dependencies  
 ├── README.md # Project documentation  
 └── .gitignore # Git ignore rules  
+
+---
+
+## 🛠️ Installation & Usage
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/PasswordStrengthChecker.git
+cd PasswordStrengthChecker
