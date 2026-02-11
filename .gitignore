@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+key.key
+
+# User data
+passwords.csv
+pwds.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
